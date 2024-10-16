@@ -1,6 +1,6 @@
 {
-  "name": "kinde-oss/kinde-auth-php",
-  "version": "1.2.4",
+  "name": "brettchaldecott/kinde-php-sdk",
+  "version": "dev-fix-client-session-token-security-risk",
   "description": "Kinde PHP SDK for authentication",
   "license": "MIT",
   "keywords": [
